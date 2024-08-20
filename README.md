@@ -4,11 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph1818&label=Profile%20views&color=0e75b6&style=flat" alt="joseph1818" /> </p>
 
+- 👨‍🎓 Degree In IT **Appliation Development**
+
 - 🔭 I’m currently working on [Game Store](https://github.com/Joseph1818/game-store)
 
 - 🌱 I’m currently learning **Aws,TypeScript**
 
-- 🤝🙌💼🎯 I’m looking for a new role **Software development**
+- 🤝🙌💼🎯👨‍🎓 I’m looking for a new role **Software development**
 
 - 👨‍💻 All of my projects are available at [https://stately-madeleine-04e1a4.netlify.app/](https://stately-madeleine-04e1a4.netlify.app/)
 
