@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Umba Joseph</h1>
-<h3 align="center">Im a pationate full Stack Developer Based in South Afica</h3>
+<h1 align="center">Hi there 👋, I'm Umba Joseph</h1>
+<h3 align="center">Im a pationate FullStack Developer Based in South Afica</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph1818&label=Profile%20views&color=0e75b6&style=flat" alt="joseph1818" /> </p>
