@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Aws,TypeScript**
 
-- 🤝🙌💼🎯 Open to work an Entry Level **Software Engineer**
+- 🤝🙌💼🎯 Open to work for Entry Level **Software Engineer**
 
 - 👨‍💻 All of my projects are available at [https://stately-madeleine-04e1a4.netlify.app/](https://stately-madeleine-04e1a4.netlify.app/)
 
