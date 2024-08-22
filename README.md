@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://stately-madeleine-04e1a4.netlify.app/](https://stately-madeleine-04e1a4.netlify.app/)
 
-- 🎬🎥🔴▶ Currently creating content [https://www.tiktok.com/@jeefumbaa](https://www.tiktok.com/@jeefumbaa)
-
 - 💬 Ask me about **Software dev, and Techs**
 
 - 📫 How to reach me **Josephdjamba04@gmail.com**
