@@ -6,7 +6,7 @@
 
 - 👨‍🎓 Degree In IT **Appliation Development**
 
-- 🔭 I’m currently working on https://github.com/Joseph1818/FindtechComp
+- 🔭 I’m currently working on FindTechComp
 
 - 🌱 I’m currently learning **Aws,TypeScript**
 
