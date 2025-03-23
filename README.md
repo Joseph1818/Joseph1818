@@ -5,11 +5,11 @@
 
 - 👨‍🎓 Degree In IT **Appliation Development**
 
-- 🔭 I’m currently working on **FindTechComp**
+- 🤝💼I'm currently working as  **Software Developer** Intern at @Pilot Software Holdings (Pty) Ltd 
 
 - 🌱 I’m currently learning **Aws,TypeScript**
 
-- 🤝💼I'm currently working as  **Software Developer** Intern at @Pilot Software Holdings (Pty) Ltd 
+- 🔭 I’m currently working on **FindTechComp**
 
 - 👨‍💻 All of my projects are available at [https://stately-madeleine-04e1a4.netlify.app/](https://stately-madeleine-04e1a4.netlify.app/)
 
