@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Aws,TypeScript**
 
-- 🤝🙌💼🎯 Open to work for Entry Level **Software Engineer**
+- 🤝🙌💼🎯 **Software Engineer** Intern at @Pilot Software Holdings (Pty) Ltd - Point of Sale
 
 - 👨‍💻 All of my projects are available at [https://stately-madeleine-04e1a4.netlify.app/](https://stately-madeleine-04e1a4.netlify.app/)
 
