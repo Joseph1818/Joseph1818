@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, I'm Umba J</h1>
-<h3 align="center">I'm a pationate FullStack Developer Based in Cape Town</h3>
+<h3 align="center">I'm a passionate FullStack Developer Based in Cape Town</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joseph1818&label=Profile%20views&color=0e75b6&style=flat" alt="joseph1818" /></p>
 
-- 👨‍🎓 Degree In IT **Appliation Development**
+- 👨‍🎓 Degree In IT **Application Development**
 
 - 🤝💼I'm currently working as  **Software Developer** Intern at @Pilot Software Holdings (Pty) Ltd 
 
