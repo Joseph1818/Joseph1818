@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Aws,TypeScript**
 
-- 🔭 I’m currently working on **Mosala**
+- 🔭 I’m currently working on **MyBarberQueue**
 
 - 👨‍💻 All of my projects are available at [https://stately-madeleine-04e1a4.netlify.app/](https://stately-madeleine-04e1a4.netlify.app/)
 
