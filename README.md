@@ -5,7 +5,7 @@
 
 - 👨‍🎓 Degree In IT **Application Development**
 
-- 🤝💼I'm currently working as  **Full-Stack Developer**  at @Pilot Software Holdings (Pty) Ltd 
+- 🤝💼I'm currently working as  **Analyst Developer**  at @Pilot Software Holdings (Pty) Ltd 
 
 - 🌱 I’m currently learning **Aws,TypeScript**
 
