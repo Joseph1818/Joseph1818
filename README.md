@@ -7,7 +7,7 @@
 
 - 🤝💼I'm currently working as  **Analyst Developer**  at @Pilot Software Holdings (Pty) Ltd 
 
-- 🌱 I’m currently learning **Aws,TypeScript**
+- 🌱 I’m currently learning **Azure,React**
 
 - 🔭 I’m currently working on **MyBarberQueue**
 
